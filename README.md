@@ -39,6 +39,6 @@ Em aprendizado: **Node.js · Express · REST APIs**
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-bomfim-santos-freitas)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white)](https://mfreitas-dev.github.io/))
-[![Portfólio(FREELANCE)](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white)](https://mcodeon.com.br)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white)](https://mfreitas-dev.github.io/)
+[![Portfólio-FREELANCE](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white)](https://mcodeon.com.br)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mbkshfi@gmail.com)

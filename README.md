@@ -15,7 +15,7 @@ Atuo como analista de suporte de TI há mais de 4 anos e em paralelo construo in
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-Em aprendizado: **Node.js · Express · REST APIs**
+Em aprendizado: **Typescript · Node.js · Express · REST APIs**
 
 ---
 

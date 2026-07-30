@@ -32,7 +32,7 @@ Em aprendizado: **Typescript · Node.js · Express · REST APIs**
 
 ### Clientes atendidos pela MCODEON
 
-[Grupo AJUTEC](http://grupoajutec.com.br) · [FFerreira Info](http://fferreirainfo.com.br) · [AJUTEC CEL](http://ajuteccel.com.br)
+[Grupo AJUTEC](http://grupoajutec.com.br) · [FFerreira Info](http://fferreirainfo.com.br) · [AJUTEC CEL](http://ajuteccel.com.br) · [FREIRE&FREIRE ADVOCACIA](https://freireefreire.adv.br)
 
 ---
 

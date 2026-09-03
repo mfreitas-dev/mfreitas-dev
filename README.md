@@ -4,6 +4,8 @@ Desenvolvedor Front-End em transição para Full Stack, baseado em Aracaju, SE.
 
 Atuo como analista de suporte de TI há mais de 4 anos e em paralelo construo interfaces web para clientes reais pela minha agência [MCODEON](https://mcodeon.com.br). Inglês avançado (C1).
 
+Busco vaga na área de Desenvolvimento com disponibilidade para horários comuns ou alternativos, e deslocamento para outro estado/país(que fale inglês ou português).
+
 ---
 
 ### Stack atual

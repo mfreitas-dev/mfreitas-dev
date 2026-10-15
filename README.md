@@ -43,7 +43,7 @@ Tenho inglês avançado (C1), comprovado pelo [certificado EF SET](https://cert.
 
 Além dos projetos de estudo, desenvolvo sites para clientes reais por meio da [MCODEON](https://mcodeon.com.br), incluindo:
 
-[Grupo AJUTEC](http://grupoajutec.com.br) · [FFerreira Info](http://fferreirainfo.com.br) · [AJUTEC CEL](http://ajuteccel.com.br) · [Freire & Freire Advocacia](https://freireefreire.adv.br)
+[Grupo AJUTEC](http://grupoajutec.com.br) · [FFerreira Info](http://fferreirainfo.com.br) · [AJUTEC CEL](http://ajuteccel.com.br) · [Freire & Freire Advocacia](https://freireefreire.adv.br) · [AJUTEC SEG](https://ajutec.seg.br/) · [AJUTEC INF](https://ajutec.inf.br/) · [AJUTEC TEC](https://ajutec.tec.br/)
 
 ---
 

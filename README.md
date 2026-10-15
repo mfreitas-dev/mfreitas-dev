@@ -1,48 +1,55 @@
 # Matheus Bomfim
 
-Desenvolvedor Front-End em transição para Full Stack, baseado em Aracaju, SE.
+Desenvolvedor web em transição para **Full Stack**, baseado em Aracaju, SE. Tenho mais de 4 anos de experiência profissional em suporte de TI e também desenvolvo sites para clientes reais por meio da minha agência [MCODEON](https://mcodeon.com.br).
 
-Atuo como analista de suporte de TI há mais de 4 anos e em paralelo construo interfaces web para clientes reais pela minha agência [MCODEON](https://mcodeon.com.br). 
+Concluí pós-graduações em **Análise e Desenvolvimento de Sistemas (ADS)** e **Desenvolvimento Full Stack**. Busco uma oportunidade júnior em desenvolvimento para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com projetos reais.
 
-#### Possuo Inglês avançado (C1). [CERTIFICADO](https://cert.efset.org/en/HMhymy).
-
-Busco vaga na área de Desenvolvimento com disponibilidade para horários comuns ou alternativos, e deslocamento para outro estado/país(que fale inglês ou português).
+Tenho inglês avançado (C1), comprovado pelo [certificado EF SET](https://cert.efset.org/en/HMhymy).
 
 ---
 
-### Stack atual
+### Tecnologias e conhecimentos
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+**Desenvolvimento Frontend**
+- JavaScript, React, HTML5 e CSS3
+- Vite, consumo de APIs REST e interfaces responsivas
+- Hooks, gerenciamento de estado e persistência com localStorage
 
-Em aprendizado: **Typescript · Node.js · Express · REST APIs**
+**Backend e banco de dados**
+- Conhecimentos em **Node.js, Express e construção de APIs REST**
+- Praticando desenvolvimento backend com JavaScript, organização de rotas e controllers, autenticação e integração entre frontend e backend
+- Conhecimentos em **MongoDB e Mongoose**, com prática em conexão e persistência de dados
+- Estudando e aplicando esses conceitos em projetos próprios, incluindo um e-commerce full stack
+
+**Ferramentas**
+- Git, GitHub e VS Code
 
 ---
 
 ### Projetos em destaque
 
-| Projeto | Descrição | Stack |
+| Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Fake Store](https://github.com/mfreitas-dev/fake_store_api_app) | E-commerce completo com auth JWT, carrinho e checkout | React · Context API · React Router |
+| [E-commerce Frontend](https://github.com/mfreitas-dev/projeto-ecommerce-frontend) | Interface de loja virtual com catálogo, detalhes de produtos e carrinho | React · JavaScript · React Router |
+| [E-commerce Backend](https://github.com/mfreitas-dev/projeto-ecommerce-backend) | API REST com produtos, autenticação, pedidos e integração com pagamentos | Node.js · Express · MongoDB · Mongoose |
+| [Mini-CRM TypeScript](https://github.com/mfreitas-dev/projeto-mini-crm-typescript) | Pipeline de clientes para organizar oportunidades comerciais da MCODEON | React · TypeScript · Context API |
 | [GitHub Search](https://github.com/mfreitas-dev/github-search-react) | Busca de perfis e repositórios do GitHub | React · REST API · AbortController |
-| [Task Dashboard](https://github.com/mfreitas-dev/task-dashboard) | Gerenciador de tarefas com filtros e persistência | React · useReducer · localStorage |
-| [MCODEON](https://mcodeon.com.br) | Portfólio e agência de desenvolvimento web | HTML · CSS · JavaScript |
+| [Astro Tracker](https://github.com/mfreitas-dev/astro-tracker-typescript) | Aplicação de astronomia que consome a API da NASA | React · TypeScript · NASA API |
+| [Task Dashboard](https://github.com/mfreitas-dev/task-dashboard) | Gerenciador de tarefas com filtros e persistência local | React · Hooks · localStorage |
 
 ---
 
-### Clientes atendidos pela MCODEON
+### Experiência com projetos web
 
-[Grupo AJUTEC](http://grupoajutec.com.br) · [FFerreira Info](http://fferreirainfo.com.br) · [AJUTEC CEL](http://ajuteccel.com.br) · [FREIRE&FREIRE ADVOCACIA](https://freireefreire.adv.br)
+Além dos projetos de estudo, desenvolvo sites para clientes reais por meio da [MCODEON](https://mcodeon.com.br), incluindo:
+
+[Grupo AJUTEC](http://grupoajutec.com.br) · [FFerreira Info](http://fferreirainfo.com.br) · [AJUTEC CEL](http://ajuteccel.com.br) · [Freire & Freire Advocacia](https://freireefreire.adv.br)
 
 ---
 
 ### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-bomfim-santos-freitas)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white)](https://mfreitas-dev.github.io/)
-[![Portfólio-FREELANCE](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white)](https://mcodeon.com.br)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mfreitasss07@gmail.com)
+- [LinkedIn](https://linkedin.com/in/matheus-bomfim-santos-freitas)
+- [Portfólio pessoal](https://mfreitas-dev.github.io/)
+- [MCODEON](https://mcodeon.com.br)
+- [Email](mailto:mfreitasss07@gmail.com)
